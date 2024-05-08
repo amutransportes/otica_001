@@ -1,10 +1,10 @@
 export const config = {
     brand: "AVM",
-    site: "https://bvbaiapreview.vercel.app/",
-    email: "optica@kiama.com",
-    telefone: "+244 936 854 521",
+    site: "https://otica-001.vercel.app/",
+    email: "anvimaa@gmail.com",
+    telefone: "+244 934 342 795",
     adress: {
-        city: "Angola, Uíge",
-        adress: "Bairro Dunga, Rua C de fronte antida Coca Cola"
+        city: "Angola, Luanda",
+        adress: "Projeto Nando, Rua das Mangueiras"
     },
 }
