@@ -1,5 +1,5 @@
 export const config = {
-    brand: "SUZANA",
+    brand: "AVM",
     site: "https://bvbaiapreview.vercel.app/",
     email: "optica@kiama.com",
     telefone: "+244 936 854 521",
